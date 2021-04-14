@@ -1,7 +1,7 @@
 SSE
 ================
 
-Exim email information utility for cPanel servers
+Exim email information utility for cPanel servers - test
 
 Usage
 --------------
